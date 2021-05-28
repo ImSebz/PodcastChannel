@@ -6,4 +6,4 @@ ES: Proyecto de Landing page para un Podcast Channel realizado en HTML y CSS
 ***
 # Code by
 
-Juan Sebastian Camargo / https://github.com/ImSebz/PodcastChannel
+Juan Sebastian Camargo / https://github.com/ImSebz
